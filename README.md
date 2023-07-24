@@ -1,4 +1,4 @@
-# Real-Time Chat App 
+# Real-Time Chat App
 
 ### [Live Site](blank)
 
